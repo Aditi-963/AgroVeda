@@ -29,6 +29,7 @@ Smart Crop Disease Detection System using AI
 ## 🚀 Live Demo
 Check out the live simulation of our project here:
 ### [Youtube link demonstration 🔗https://youtu.be/evG0l4gcMYE ]
+### [Demo link - https://agro-vidya-shield.lovable.app]
 
 
 ---
