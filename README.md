@@ -1,8 +1,6 @@
 # AgroVeda
 Smart Crop Disease Detection System using AI
-<div align="center">
-  <img src="static/images/logo.png" alt="AgroVeda Logo" width="200">
-  
+
   # AgroVeda
   ### *Fasal Surakshit, Kisan Nishchint*
   **(Crop Secure, Farmer Carefree)**
