@@ -18,7 +18,7 @@ Smart Crop Disease Detection System using AI
 
 ---
 
-## 🏆 Submission for [INSERT HACKATHON NAME HERE]
+## 🏆 Submission for [PU HACKATHON 3.0]
 
 **AgroVeda** was built with a single mission: **To save crops and save livelihoods.** We believe that technology should not be a luxury but a tool accessible to every farmer in India. This project is our attempt to bridge the gap between complex AI technology and the simple needs of our Annadatas (Farmers).
 
